@@ -1,0 +1,1 @@
+Caso for rodar o código mais de uma vez, favor fechar o excel no gerenciador de tarefas, pois o vb6 não está finalizando a aplicação.

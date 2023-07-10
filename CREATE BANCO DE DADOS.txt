@@ -1,0 +1,6 @@
+create table pessoa(id serial primary key, contrato varchar(100), saldo varchar(100), nome varchar(100), endereço varchar(100), telefone varchar(100))
+
+usuario: postgres
+senha: 1234
+
+OBDC: PostgreSQL30
